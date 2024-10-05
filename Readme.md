@@ -10,8 +10,12 @@ A simple **Snake Game** implemented in **Python** using the **Pygame** library. 
 
 ## 🕹️ Game Rules
 The game ends when:
-- The snake bites itself. 🐍💔
-- The snake hits the wall. 🧱
+- The snake bites itself. 🐍💔  
+  - Preview:  
+    ![](./gif/bite_itself.gif)
+- The snake hits the wall. 🧱  
+  - Preview:  
+    ![](./gif/Well_collpese.gif)
 
 ## 📦 Installation
 
